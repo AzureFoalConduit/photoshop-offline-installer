@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Adobe Photoshop interface" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_2023.png" />
+<img width="2880" height="1620" alt="Adobe Photoshop interface" src="https://raw.githubusercontent.com/AzureFoalConduit/photoshop-offline-installer/main/photoshop_screenshot.png" />
 </div>
 
 ---
